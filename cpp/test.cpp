@@ -14,6 +14,4 @@ int main(){
     cout << set.count(1) << endl;
     cout << 1 << endl;
     cout << *set.rbegin() << endl;
-
-    
 }
