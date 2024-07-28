@@ -7,5 +7,5 @@ Practice Algorithem on Codeforces
 compile and run
 
 ```bash
-g++ cpp/xxx.cpp -o cpp/exe/xxx && cpp/exe/xxx
+g++ --std=c++17 cpp/1996D.cpp -o cpp/exe/1996D && ./cpp/exe/1996D
 ```
